@@ -627,6 +627,11 @@ body {
   height: 48px;
   border: 1px solid var(--primary-color);
   border-radius: 100px;
+  cursor: pointer;
+}
+
+.sub-btns button:hover{
+  opacity: 0.7;
 }
 
 .sub-btns button span {
@@ -772,6 +777,10 @@ body {
   border: none;
   padding: 12px 24px;
   background-color: #005ae2;
+  cursor: pointer;
+}
+.form-footer button:hover{
+  opacity: 0.7;
 }
 .form-footer button span {
   font-family: gilroy-semibold;
@@ -925,6 +934,11 @@ body {
   border-radius: 100px;
   background-color: #005ae2;
   border: none;
+  cursor: pointer;
+}
+
+.footer-banner .center-box button:hover{
+  opacity: 0.7;
 }
 
 .footer-banner .center-box button span {
